@@ -71,7 +71,7 @@ Built using **Swift** and **SwiftUI**, it provides a hands-on way for students, 
    ```bash
    git clone https://github.com/suryanandanbabbar/BlockForge_blockchain_simulator.git
    ```
-2. Open BlockForge.xcodeproj in Xcode.
+2. Open BlockchainSimulator.xcodeproj in Xcode.
 3. Select your target device or simulator.
 4. Build and run (Cmd + R).
 ---
