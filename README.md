@@ -2,6 +2,11 @@
 **BlockForge** is an interactive iOS application that simulates the core workings of a blockchain system — from wallet creation and transactions to proof-of-work mining and ledger validation.  
 Built using **Swift** and **SwiftUI**, it provides a hands-on way for students, developers, and blockchain enthusiasts to explore the underlying mechanics of decentralized systems.
 
+
+
+https://github.com/user-attachments/assets/132ea627-08e6-4f25-b13b-7241d55d1fe4
+
+
 ---
 
 ## Features
